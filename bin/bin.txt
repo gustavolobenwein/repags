@@ -1,2 +1,2 @@
 01 linha add no vscode
-02
+02 linha add ainda no stage, nao foi commit
