@@ -1,2 +1,4 @@
 01 add depois de commit
 02 modificando depois do commit
+
+03 alterando outro arquivo para testar o comando diff con varios arquivos

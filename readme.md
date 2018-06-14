@@ -2,3 +2,5 @@
 02 - alteracao
 03 - alteração depois do commit
 04 - alterando pelo VisualCodegit
+
+05 - testar o comando diff
