@@ -2,3 +2,5 @@
 02 modificando depois do commit
 
 03 alterando outro arquivo para testar o comando diff con varios arquivos
+
+04 NOVA LINHA - TESTAR ENVIO PARA REPOSITORIO
