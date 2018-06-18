@@ -4,3 +4,5 @@
 04 - alterando pelo VisualCodegit
 
 05 - testar o comando diff
+
+06 testar mais de um repositório
