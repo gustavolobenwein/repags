@@ -6,3 +6,5 @@
 05 - testar o comando diff
 
 06 testar mais de um repositório
+
+07 alteração no local para dar pull (rebase)
