@@ -7,4 +7,4 @@
 
 06 testar mais de um repositório
 
-07 - rebase - LOCAL
+07 - REBASE (MESCALDO)
