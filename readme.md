@@ -8,3 +8,5 @@
 06 testar mais de um repositório
 
 07 - REBASE (MESCALDO)
+
+08 - ALTERACAO DEPOIS do AWS configurado
